@@ -1,0 +1,34 @@
+_repo: The-American-Indian-as-Slaveholder-and-SeccessionistAn-Omitted-Chapter-in-the-Diplomatic-Hist__38173
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abel, Annie Heloise
+    aliases:
+    - Abel, Anna Heloise
+    - Abel-Henderson, Annie Heloise
+    - Henderson, Annie Heloise Abel
+    birthdate: 1873
+    deathdate: 1947
+    gutenberg_agent_id: '4414'
+    url: http://www.gutenberg.org/2009/agents/4414
+description: ''
+gutenberg_issued: '2011-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38173'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- United States'
+- !lcsh 'Indian Territory'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865'
+title: 'The American Indian as Slaveholder and Seccessionist
+
+  An Omitted Chapter in the Diplomatic History of the Southern Confederacy'
+url: http://www.gutenberg.org/ebooks/38173
